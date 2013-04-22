@@ -1,0 +1,15 @@
+downloadlist_cs259
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/0._Introduction.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/1._How_Debuggers_Work.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/2._Assertions.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/3._Simplifying_Failures.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/4._Tracking_Origins.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/5._Reproducing_Failures.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/6._Learning_from_Mistakes.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/7._Recap_and_more_stories.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_1.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_2.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_3.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_4.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_5.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs259/Problem_Set_6.zip

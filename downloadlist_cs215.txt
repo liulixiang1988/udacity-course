@@ -1,0 +1,16 @@
+downloadlist_cs215
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_1_A_Social_Network_Magic_Trick.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_2_Growth_Rates_in_Social_Networks.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_3_Basic_Graph_Algorithms.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_4_Its_Who_You_Know.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_5_Strong_and_Weak_Bonds.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_6_Hardness_of_Network_Problems.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Unit_7.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_1.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_2.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_2_Solutions.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_3.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_3_Solutions.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_4.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Problem_Set_4_Solutions.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs215/Extra_Challenge_Problems.zip

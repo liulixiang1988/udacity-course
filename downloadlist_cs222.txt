@@ -1,0 +1,15 @@
+downloadlist_cs222
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_1_-_Houston_We_Have_a_Problem.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_1.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_2_-_Houston_We_Have_a_Solution.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_2.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_3_-_Contagion.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_3.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_4_-_Responsible_Fishing.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_4.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_5_-_Antilock_Braking_Systems.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_5.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_6_-_Wildfire.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Problem_Set_6.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Unit_7_-_Advanced_Applications_of_Numerical_Methods.zip
+https://s3.amazonaws.com/udacity-serving-videos/zip/cs222/Final_Exam.zip
